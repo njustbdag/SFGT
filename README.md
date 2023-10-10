@@ -1,2 +1,2 @@
 # SFGT
-Implementation for Graph Transformer-based Self-Adaptive Malicious Relation Filtering  in social network
+Graph transformer-based self-adaptive malicious relation filtering for fraudulent comments detection in social network
